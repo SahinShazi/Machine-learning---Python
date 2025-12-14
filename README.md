@@ -131,6 +131,7 @@ Machine-learning---Python/
 - [x] NumPy
 - [x] Pandas
 - [ ] Matplotlib
+- [ ] Seaborn
 - [ ] প্রথম ML মডেল তৈরি
 - [ ] প্রথম প্রজেক্ট সম্পন্ন
 
